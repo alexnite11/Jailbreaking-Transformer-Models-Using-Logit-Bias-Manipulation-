@@ -1,0 +1,15 @@
+Important links: 
+1. https://github.com/yuxili19/JailMine/blob/main/README.md
+2. https://wandb.ai/amanarora/Written-Reports/reports/Understanding-Logits-Sigmoid-Softmax-and-Cross-Entropy-Loss-in-Deep-Learning--Vmlldzo0NDMzNTU3
+3. https://telnyx.com/learn-ai/logits-ai
+4. https://developers.google.com/machine-learning/crash-course/logistic-regression/sigmoid-function
+5. https://www.singlestore.com/blog/a-guide-to-softmax-activation-function/#:~:text=The%20softmax%20function%2C%20often%20used,sum%20of%20all%20the%20exponentials.
+6. https://www.geeksforgeeks.org/the-role-of-softmax-in-neural-networks-detailed-explanation-and-applications/
+7. https://community.openai.com/t/is-it-possible-to-get-the-entire-logits-softmax-probability-vector-of-the-output/374926
+8. https://www.reddit.com/r/LocalLLaMA/comments/18ium1o/how_to_view_logits_from_llms_before_token/
+9. https://github.com/ollama/ollama/issues/2415
+10.  Getting access to Deepseek's Cloud based API via https://api-docs.deepseek.com/. 
+11. https://api-docs.deepseek.com/
+12. https://corelight.com/blog/secure-deepseek-zeek-analysis
+13. https://api-docs.deepseek.com/api/create-completion
+14. https://medium.com/data-science-collective/deepseek-explained-4-multi-token-prediction-33f11fe2b868
